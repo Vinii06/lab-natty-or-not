@@ -13,7 +13,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-E-Book("C:\Users\senav\OneDrive\Área de Trabalho\A Jornada da IA.docx")
+[A Jornada da IA.docx](https://github.com/user-attachments/files/15755878/A.Jornada.da.IA.docx)
 
 💭 Reflexão
 Criar este e-book foi uma experiência reveladora e totalmente nova sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
